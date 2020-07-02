@@ -116,7 +116,7 @@
 		<dependency>
 		    <groupId>mysql</groupId>
 		    <artifactId>mysql-connector-java</artifactId>
-		    <version>8.0.12</version>		
+		    <version>8.0.16</version>		
 		</dependency>
 		
 		<!-- MyBatis by doop -->
@@ -180,7 +180,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>8.0.12</version>
+			<version>8.0.16</version>
 		</dependency>
 		
 		<!-- common FileuploadUtils by doop -->
